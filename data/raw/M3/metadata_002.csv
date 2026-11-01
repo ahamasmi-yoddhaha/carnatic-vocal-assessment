@@ -1,0 +1,243 @@
+,s_file,t_file,s_bpm,t_bpm,s_scale,t_scale,s_id,duration,anchor_point,beat_cycle,beat_per_note,note_sequence
+0,20220330154841.wav,20220310103714.wav,75,75,C#4,A#3,s_010,45.99199546,5.063,16,1,s R g m p D n su su n D p m g R s
+1,20220330154852.wav,20220310103759.wav,75,75,C#4,A#3,s_010,45.36263039,5.063,16,1,s R g m p D n su su n D p m g R s
+2,20220330154902.wav,20220310103810.wav,75,75,C#4,A#3,s_010,45.11265306,5.063,16,2,@s s R R g g m m p p D D n n su su su su n n D D p p m m g g R R s s  
+3,20220330154911.wav,20220310103824.wav,75,75,C#4,A#3,s_010,44.83142857,5.063,16,2,@s s R R g g m m p p D D n n su su su su n n D D p p m m g g R R s s  
+4,20220330154920.wav,20220310103835.wav,75,75,C#4,A#3,s_010,95.85804989,5.063,16,1,s R s g R g R m g m g p m p m D p D p n D n D su su n su D n D n p D p D m p m p g m g m R g R g s
+5,20220330154931.wav,20220310103848.wav,75,75,C#4,A#3,s_010,96.45174603,5.063,16,1,s R s g R g R m g m g p m p m D p D p n D n D su su n su D n D n p D p D m p m p g m g m R g R g s
+6,20220330154939.wav,20220310103859.wav,75,75,C#4,A#3,s_010,120.1683447,5.063,16,1,s s s s R R R R g g g g m m m m p p p p D D D D n n n n su su su su su su su su n n n n D D D D p p p p m m m m g g g g  R R R R s s s s
+7,20220330154948.wav,20220310103911.wav,75,75,C#4,A#3,s_010,120.1995918,5.063,16,1,s s s s R R R R g g g g m m m m p p p p D D D D n n n n su su su su su su su su n n n n D D D D p p p p m m m m g g g g  R R R R s s s s
+8,20220330155009.wav,20220328121607.wav,66,66,C#4,A#3,s_010,43.76902494,5,1,1,s r g m p d n su su n d p m g r s
+9,20220330155025.wav,20220328121618.wav,66,66,C#4,A#3,s_010,72.13303855,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+10,20220330155033.wav,20220328121708.wav,66,66,C#4,A#3,s_010,100.607619,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+11,20220330155049.wav,20220328121719.wav,66,66,C#4,A#3,s_010,79.54702948,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+12,20220330155058.wav,20220328121727.wav,66,66,C#4,A#3,s_010,64.98585034,5,1,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+13,20220330155110.wav,20220328121735.wav,66,66,C#4,A#3,s_010,57.70526077,5,1,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+14,20220330155119.wav,20220328121755.wav,66,66,C#4,A#3,s_010,129.7612245,5,1,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+15,20220330155141.wav,20220328121804.wav,66,66,C#4,A#3,s_010,86.92136054,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+16,20220330155154.wav,20220328121813.wav,66,66,C#4,A#3,s_010,78.95333333,5,1,1,s n1 r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n s  
+17,20220330155205.wav,20220328121843.wav,66,66,C#4,A#3,s_010,140.7289796,5,1,1,s s r s s r g r s s r g m g r s s r g m p m g r s s r g m p d p m g r s s r g m p d n d p m g r s s r g m p d n su n d p m g r s su su n su n d n su su n d p d n su su n d p m p d n su su n d p m g m p d n su su n d p m g r g m p d n su su n d p m g r s r g m p d n su
+18,20220330155504.wav,20220210130408.wav,100,100,C#4,A#3,s_010,34.88501134,5,16,1,s r g m p d n su su n d p m g r s
+19,20220330155516.wav,20220210130436.wav,100,100,C#4,A#3,s_010,34.7385941,5,16,1,s r g m p d n su su n d p m g r s
+20,20220330155525.wav,20220210130506.wav,100,100,C#4,A#3,s_010,25.42693878,5,16,2,@s r g m p d n su su n d p m g r s
+21,20220330155543.wav,20220210130532.wav,100,100,C#4,A#3,s_010,24.98947846,5,16,2,@s r g m p d n su su n d p m g r s
+22,20220330155555.wav,20220210130556.wav,100,100,C#4,A#3,s_010,54.33056689,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+23,20220330155609.wav,20220210130615.wav,100,100,C#4,A#3,s_010,53.11192744,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+24,20220330155627.wav,20220210130652.wav,100,100,C#4,A#3,s_010,33.76993197,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+25,20220330155701.wav,20220217105515.wav,100,100,C#4,A#3,s_010,97.13918367,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+26,20220330155712.wav,20220217105624.wav,100,100,C#4,A#3,s_010,91.98340136,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+27,20220330155740.wav,20220217105900.wav,100,100,C#4,A#3,s_010,52.89319728,5,16,1,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+28,20220330155801.wav,20220217110048.wav,100,100,C#4,A#3,s_010,33.70743764,5,16,2,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+29,20220330155825.wav,20220311215116.wav,100,100,C#4,A#3,s_010,91.48344671,5,16,1,s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+30,20220330155840.wav,20220311215148.wav,100,100,C#4,A#3,s_010,92.10839002,5,16,1,s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+31,20220330155851.wav,20220311215204.wav,100,100,C#4,A#3,s_010,53.61188209,5,16,2,@s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+32,20220330155908.wav,20220311215225.wav,100,100,C#4,A#3,s_010,53.42439909,5,16,2,@s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+33,20220404143925.wav,20220328121607.wav,66,66,C#4,A#3,s_011,43.1753288,5,1,1,s r g m p d n su su n d p m g r s
+34,20220404143938.wav,20220328121618.wav,66,66,C#4,A#3,s_011,72.32376417,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+35,20220404143948.wav,20220328121708.wav,66,66,C#4,A#3,s_011,100.4513832,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+36,20220404144005.wav,20220328121719.wav,66,66,C#4,A#3,s_011,80.95315193,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+37,20220404144015.wav,20220328121727.wav,66,66,C#4,A#3,s_011,65.89201814,5,1,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+38,20220404144024.wav,20220328121735.wav,66,66,C#4,A#3,s_011,57.20530612,5,1,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+39,20220404144033.wav,20220328121755.wav,66,66,C#4,A#3,s_011,128.730068,5,1,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+40,20220404144042.wav,20220328121804.wav,66,66,C#4,A#3,s_011,86.17142857,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+41,20220404144052.wav,20220328121813.wav,66,66,C#4,A#3,s_011,80.64068027,5,1,1,s n1 r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n s  
+42,20220404144103.wav,20220328121843.wav,66,66,C#4,A#3,s_011,141.3226757,5,1,1,s s r s s r g r s s r g m g r s s r g m p m g r s s r g m p d p m g r s s r g m p d n d p m g r s s r g m p d n su n d p m g r s su su n su n d n su su n d p d n su su n d p m p d n su su n d p m g m p d n su su n d p m g r g m p d n su su n d p m g r s r g m p d n su
+43,20220412095151.wav,20220312113656.wav,75,75,C#4,A#3,s_011,43.67528345,5,16,1,s R g m p D n su su n D p m g R s
+44,20220412095204.wav,20220312113707.wav,75,75,C#4,A#3,s_011,43.73777778,5,16,1,s R g m p D n su su n D p m g R s
+45,20220412095222.wav,20220312113726.wav,75,75,C#4,A#3,s_011,31.36390023,5,16,2,@s R g m p D n su su n D p m g R s
+46,20220412095233.wav,20220312113733.wav,75,75,C#4,A#3,s_011,69.51668934,5,16,1,s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+47,20220412095244.wav,20220312113748.wav,75,75,C#4,A#3,s_011,71.01655329,5,16,1,s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+48,20220412095254.wav,20220312113749.wav,75,75,C#4,A#3,s_011,44.11274376,5,16,2,@s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+49,20220412095306.wav,20220312114614.wav,75,75,C#4,A#3,s_011,44.70643991,5,16,2,@s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+50,20220412095337.wav,20220312114622.wav,75,75,C#4,A#3,s_011,71.11029478,5,16,1,g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+51,20220412095347.wav,20220312114628.wav,75,75,C#4,A#3,s_011,70.32911565,5,16,1,g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+52,20220412095400.wav,20220312114629.wav,75,75,C#4,A#3,s_011,43.89401361,5,16,2,@g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+53,20220412095410.wav,20220312114644.wav,75,75,C#4,A#3,s_011,43.45655329,5,16,2,@g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+54,20220419154756.wav,20220328121607.wav,66,66,C#4,A#3,s_009,42.58163265,5,1,1,s r g m p d n su su n d p m g r s
+55,20220419154829.wav,20220328121618.wav,66,66,C#4,A#3,s_009,71.6414966,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+56,20220419154846.wav,20220328121708.wav,66,66,C#4,A#3,s_009,101.8262585,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+57,20220419154903.wav,20220328121719.wav,66,66,C#4,A#3,s_009,77.67219955,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+58,20220419154920.wav,20220328121727.wav,66,66,C#4,A#3,s_009,63.57972789,5,1,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+59,20220419155021.wav,20220328121735.wav,66,66,C#4,A#3,s_009,56.39287982,5,1,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+60,20220419155037.wav,20220328121755.wav,66,66,C#4,A#3,s_009,129.0425397,5,1,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+61,20220419155054.wav,20220328121804.wav,66,66,C#4,A#3,s_009,85.26526077,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+62,20220419155114.wav,20220328121813.wav,66,66,C#4,A#3,s_009,78.51587302,5,1,1,s n1 r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n s  
+63,20220420111209.wav,20220217110323.wav,100,100,C#4,A#3,s_010,49.4247619,6.208,7,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s
+64,20220420111307.wav,20220217110405.wav,100,100,C#4,A#3,s_010,48.67482993,6.208,7,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s
+65,20220420111320.wav,20220217110436.wav,100,100,C#4,A#3,s_010,32.42630385,6.208,7,2,@s r r g g m m p p d d n n su su n n d d p p m m g g r r s
+66,20220420111339.wav,20220217110507.wav,100,100,C#4,A#3,s_010,32.39505669,6.208,7,2,@s r r g g m m p p d d n n su su n n d d p p m m g g r r s
+67,20220420111355.wav,20220217110536.wav,100,100,C#4,A#3,s_010,48.45609977,6.208,7,1,s r g m p d n r g m p d n su su n d p m g r n d p m g r s 
+68,20220420111412.wav,20220217110608.wav,100,100,C#4,A#3,s_010,48.86231293,6.208,7,1,s r g m p d n r g m p d n su su n d p m g r n d p m g r s 
+69,20220420111427.wav,20220217110717.wav,100,100,C#4,A#3,s_010,32.39505669,6.208,7,2,@s r g m p d n r g m p d n su su n d p m g r n d p m g r s 
+70,20220420111450.wav,20220217110748.wav,100,100,C#4,A#3,s_010,31.80136054,6.208,7,2,@s r g m p d n r g m p d n su su n d p m g r n d p m g r s 
+71,20220420111507.wav,20220217110821.wav,100,100,C#4,A#3,s_010,104.4510204,6.208,7,1,s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s 
+72,20220420111607.wav,20220217110852.wav,100,100,C#4,A#3,s_010,100.1701587,6.208,7,1,s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s 
+73,20220420111624.wav,20220217110924.wav,100,100,C#4,A#3,s_010,57.11156463,6.208,7,2,@s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s 
+74,20220420111638.wav,20220217110955.wav,100,100,C#4,A#3,s_010,60.70498866,6.208,7,2,@s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s 
+75,20220420111652.wav,20220309165830.wav,100,100,C#4,A#3,s_010,115.3875283,6.208,7,1,s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s 
+76,20220420111707.wav,20220309165843.wav,100,100,C#4,A#3,s_010,116.6999093,6.208,7,1,s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s 
+77,20220420111747.wav,20220309165905.wav,100,100,C#4,A#3,s_010,65.73578231,6.208,7,2,@s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s 
+78,20220420111828.wav,20220309165938.wav,100,100,C#4,A#3,s_010,65.07959184,6.208,7,2,@s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s 
+79,20220420111839.wav,20220309165953.wav,100,100,C#4,A#3,s_010,116.0437188,6.208,7,1,s s s r r g g r r r g g m m g g g m m p p m m m p p d d p p p d d n n d d d n n su su su su su n n d d n n n d d p p d d d p p m m p p p m m g g m m m g g r r g g g r r s s 
+80,20220420111906.wav,20220309170025.wav,100,100,C#4,A#3,s_010,67.64185941,6.208,7,2,@s s s r r g g r r r g g m m g g g m m p p m m m p p d d p p p d d n n d d d n n su su su su su n n d d n n n d d p p d d d p p m m p p p m m g g m m m g g r r g g g r r s s 
+81,20220420111921.wav,20220309170048.wav,100,100,C#4,A#3,s_010,65.298322,6.208,7,2,@s s s r r g g r r r g g m m g g g m m p p m m m p p d d p p p d d n n d d d n n su su su su su n n d d n n n d d p p d d d p p m m p p p m m g g m m m g g r r g g g r r s s 
+82,20220423115552.wav,20220312113656.wav,75,75,C#4,A#3,s_010,44.01376417,5,16,1,s R g m p D n su su n D p m g R s
+83,20220423115702.wav,20220312113707.wav,75,75,C#4,A#3,s_010,43.58154195,5,16,1,s R g m p D n su su n D p m g R s
+84,20220423115726.wav,20220312113719.wav,75,75,C#4,A#3,s_010,30.95376417,5,16,2,@s R g m p D n su su n D p m g R s
+85,20220423115739.wav,20220312113726.wav,75,75,C#4,A#3,s_010,31.05142857,5,16,2,@s R g m p D n su su n D p m g R s
+86,20220423115758.wav,20220312113733.wav,75,75,C#4,A#3,s_010,94.73315193,5,16,1,s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+87,20220423115823.wav,20220312113748.wav,75,75,C#4,A#3,s_010,69.829161,5,16,1,s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+88,20220423115845.wav,20220312113749.wav,75,75,C#4,A#3,s_010,43.73777778,5,16,2,@s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+89,20220423115907.wav,20220312114614.wav,75,75,C#4,A#3,s_010,43.83151927,5,16,2,@s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s 
+90,20220423115924.wav,20220312114622.wav,75,75,C#4,A#3,s_010,72.40666667,5,16,1,g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+91,20220423115953.wav,20220312114628.wav,75,75,C#4,A#3,s_010,72.22693878,5,16,1,g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+92,20220423120024.wav,20220312114629.wav,75,75,C#4,A#3,s_010,43.36281179,5,16,2,@g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+93,20220423120055.wav,20220312114644.wav,75,75,C#4,A#3,s_010,48.39360544,5,16,2,@g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s 
+94,s_00820220426152429.wav,20220328121607.wav,66,66,A#3,A#3,s_008,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+95,s_00820220426153048.wav,20220328121618.wav,66,66,A#3,A#3,s_008,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+96,s_00820220426154714.wav,20220328121708.wav,66,66,A#3,A#3,s_008,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+97,s_00820220426155418.wav,20220328121719.wav,66,66,A#3,A#3,s_008,80.10444444,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+98,s_00820220426155627.wav,20220328121727.wav,66,66,A#3,A#3,s_008,63.98108844,5,1,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+99,s_00820220426155831.wav,20220328121735.wav,66,66,A#3,A#3,s_008,60.50390023,5,1,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+100,s_00820220426160654.wav,20220328121755.wav,66,66,A#3,A#3,s_008,130.1028118,5,1,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+101,s_00820220426161958.wav,20220328121804.wav,66,66,A#3,A#3,s_008,85.94136054,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+102,s_00820220426162513.wav,20220328121813.wav,66,66,A#3,A#3,s_008,79.25111111,5,1,1,s n1 r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n s  
+103,s_00820220426163114.wav,20220328121843.wav,66,66,A#3,A#3,s_008,140.7201361,5,1,1,s s r s s r g r s s r g m g r s s r g m p m g r s s r g m p d p m g r s s r g m p d n d p m g r s s r g m p d n su n d p m g r s su su n su n d n su su n d p d n su su n d p m p d n su su n d p m g m p d n su su n d p m g r g m p d n su su n d p m g r s r g m p d n su
+104,s_00820220427154721.wav,20220210130408.wav,100,100,A#3,A#3,s_008,34.29047619,5,16,1,s r g m p d n su su n d p m g r s
+105,s_00820220427155147.wav,20220210130436.wav,100,100,A#3,A#3,s_008,34.36303855,5,16,1,s r g m p d n su su n d p m g r s
+106,s_00820220427155258.wav,20220210130506.wav,100,100,A#3,A#3,s_008,24.31170068,5,16,2,@s r g m p d n su su n d p m g r s
+107,s_00820220427155358.wav,20220210130532.wav,100,100,A#3,A#3,s_008,24.21882086,5,16,2,@s r g m p d n su su n d p m g r s
+108,s_00820220427155558.wav,20220210130556.wav,100,100,A#3,A#3,s_008,54.46281179,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+109,s_00820220427155742.wav,20220210130615.wav,100,100,A#3,A#3,s_008,55.34226757,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+110,s_00820220427155853.wav,20220210130652.wav,100,100,A#3,A#3,s_008,34.22952381,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+111,s_00820220427160025.wav,20220210130711.wav,100,100,A#3,A#3,s_008,34.67360544,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+112,s_00820220427160234.wav,20220217105515.wav,100,100,A#3,A#3,s_008,92.63641723,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+113,s_00820220427160501.wav,20220217105624.wav,100,100,A#3,A#3,s_008,92.57546485,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+114,s_00820220427160635.wav,20220217105724.wav,100,100,A#3,A#3,s_008,54.32349206,5,16,2,@s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+115,s_00820220427160815.wav,20220217105806.wav,100,100,A#3,A#3,s_008,54.09419501,5,16,2,@s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+116,s_00820220427161207.wav,20220217105900.wav,100,100,A#3,A#3,s_008,53.41501134,5,16,1,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+117,s_00820220427161342.wav,20220217105930.wav,100,100,A#3,A#3,s_008,53.35986395,5,16,1,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+118,s_00820220427161452.wav,20220217110048.wav,100,100,A#3,A#3,s_008,33.82027211,5,16,2,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+119,s_00820220427161635.wav,20220217110150.wav,100,100,A#3,A#3,s_008,34.74036281,5,16,2,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+120,s_00820220427162157.wav,20220311215116.wav,100,100,A#3,A#3,s_008,91.29836735,5,16,1,s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+121,s_00820220427164225.wav,20220311215148.wav,100,100,A#3,A#3,s_008,92.99922902,5,16,1,s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+122,s_00820220427164401.wav,20220311215204.wav,100,100,A#3,A#3,s_008,53.06090703,5,16,2,@s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+123,s_00820220427164530.wav,20220311215225.wav,100,100,A#3,A#3,s_008,53.51079365,5,16,2,@s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s 
+124,s_00920220430141250.wav,20220328121843.wav,66,66,C#4,A#3,s_009,140.7201361,5,1,1,s s r s s r g r s s r g m g r s s r g m p m g r s s r g m p d p m g r s s r g m p d n d p m g r s s r g m p d n su n d p m g r s su su n su n d n su su n d p d n su su n d p m p d n su su n d p m g m p d n su su n d p m g r g m p d n su su n d p m g r s r g m p d n su
+125,s_00920220430142715.wav,20220210130408.wav,100,100,C#4,A#3,s_009,34.29147392,5,16,1,s r g m p d n su su n d p m g r s
+126,s_00920220430142908.wav,20220210130436.wav,100,100,C#4,A#3,s_009,34.36403628,5,16,1,s r g m p d n su su n d p m g r s
+127,s_00920220507121617.wav,20220210130506.wav,100,100,C#4,A#3,s_009,24.31269841,5,16,2,@s r g m p d n su su n d p m g r s
+128,s_00920220507122613.wav,20220210130532.wav,100,100,C#4,A#3,s_009,24.21981859,5,16,2,@s r g m p d n su su n d p m g r s
+129,s_00920220507124143.wav,20220210130556.wav,100,100,C#4,A#3,s_009,54.46380952,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+130,s_00920220507124447.wav,20220210130615.wav,100,100,C#4,A#3,s_009,55.34326531,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+131,s_00920220507124709.wav,20220210130652.wav,100,100,C#4,A#3,s_009,34.23052154,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+132,s_00920220507124854.wav,20220210130711.wav,100,100,C#4,A#3,s_009,34.67460317,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+133,s_00920220507125307.wav,20220217105515.wav,100,100,C#4,A#3,s_009,92.63741497,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+134,s_00920220507125530.wav,20220217105624.wav,100,100,C#4,A#3,s_009,92.57646259,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+135,s_00920220507125707.wav,20220217105724.wav,100,100,C#4,A#3,s_009,54.3244898,5,16,2,@s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+136,s_00920220507125838.wav,20220217105806.wav,100,100,C#4,A#3,s_009,54.09519274,5,16,2,@s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+137,s_00920220514124724.wav,20220217105900.wav,100,100,C#4,A#3,s_009,53.41401361,5,16,1,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+138,s_00920220514124903.wav,20220217105930.wav,100,100,C#4,A#3,s_009,53.35886621,5,16,1,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+139,s_00920220514125304.wav,20220217110048.wav,100,100,C#4,A#3,s_009,33.81927438,5,16,2,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+140,s_00920220514125418.wav,20220217110150.wav,100,100,C#4,A#3,s_009,34.73936508,5,16,2,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s 
+141,s_01020220502153151.wav,20220217111407.wav,100,100,C#4,A#3,s_010,41.76829932,6,6,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+142,s_01020220502153503.wav,20220217111450.wav,100,100,C#4,A#3,s_010,41.75088435,6,6,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+143,s_01020220502153915.wav,20220310105144.wav,100,100,C#4,A#3,s_010,56.76258503,6,6,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+144,s_01020220502154101.wav,20220310105203.wav,100,100,C#4,A#3,s_010,56.56521542,6,6,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+145,s_01020220502154422.wav,20220310105217.wav,100,100,C#4,A#3,s_010,34.94743764,6,6,2,@s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+146,s_01020220502154551.wav,20220310105230.wav,100,100,C#4,A#3,s_010,34.80521542,6,6,2,@s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+147,s_01020220502154752.wav,20220310105245.wav,100,100,C#4,A#3,s_010,71.19378685,6,6,1,s r s r g r g m g m p m p d p d n d n su n su ru su su ru su n su n d n d p d p m p m g m g r g r s r s  
+148,s_01020220502155206.wav,20220310105315.wav,100,100,C#4,A#3,s_010,41.66961451,6,6,2,@s r s r g r g m g m p m p d p d n d n su n su ru su su ru su n su n d n d p d p m p m g m g r g r s r s  
+149,s_01020220502155333.wav,20220310105330.wav,100,100,C#4,A#3,s_010,42.2414059,6,6,2,@s r s r g r g m g m p m p d p d n d n su n su ru su su ru su n su n d n d p d p m p m g m g r g r s r s  
+150,s_01020220502155510.wav,20220310105341.wav,100,100,C#4,A#3,s_010,56.37945578,6,6,1,s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s 
+151,s_01020220502155659.wav,20220310105355.wav,100,100,C#4,A#3,s_010,56.39977324,6,6,1,s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s 
+152,s_01020220502155824.wav,20220310105409.wav,100,100,C#4,A#3,s_010,34.88068027,6,6,2,@s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s 
+153,s_01020220502155934.wav,20220310105423.wav,100,100,C#4,A#3,s_010,34.7152381,6,6,2,@s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s 
+154,s_01020220502160142.wav,20220312093443.wav,100,100,C#4,A#3,s_010,78.15687075,6,6,1,g r s m g r p m g d p m n d p su n d ru su n gu ru su su ru gu n su ru d n su p d n m p d g m p r g m s r g n1 s r d1 n1 s 
+155,s_01120220429161229.wav,20220210130408.wav,100,100,D#4,A#3,s_011,34.29147392,5,16,1,s r g m p d n su su n d p m g r s
+156,s_01120220429161346.wav,20220210130436.wav,100,100,D#4,A#3,s_011,34.36403628,5,16,1,s r g m p d n su su n d p m g r s
+157,s_01120220429161445.wav,20220210130506.wav,100,100,D#4,A#3,s_011,24.31269841,5,16,2,@s r g m p d n su su n d p m g r s
+158,s_01120220429161723.wav,20220210130556.wav,100,100,D#4,A#3,s_011,54.46380952,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+159,s_01120220429161904.wav,20220210130615.wav,100,100,D#4,A#3,s_011,55.34326531,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+160,s_01120220429162014.wav,20220210130652.wav,100,100,D#4,A#3,s_011,34.23052154,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+161,s_01120220429162130.wav,20220210130711.wav,100,100,D#4,A#3,s_011,34.67460317,5,16,2,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+162,s_01120220429162423.wav,20220217105515.wav,100,100,D#4,A#3,s_011,92.63741497,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+163,s_01220220429144802.wav,20220328121607.wav,66,66,C#4,A#3,s_012,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+164,s_01220220429145309.wav,20220328121618.wav,66,66,C#4,A#3,s_012,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+165,s_01220220429145640.wav,20220328121618.wav,66,66,C#4,A#3,s_012,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+166,s_01220220429150517.wav,20220328121708.wav,66,66,C#4,A#3,s_012,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+167,s_01220220429151121.wav,20220328121719.wav,66,66,C#4,A#3,s_012,80.10444444,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+168,s_01220220429151638.wav,20220328121727.wav,66,66,C#4,A#3,s_012,63.98108844,5,1,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+169,s_E3030120220615163427.wav,20220328121607.wav,66,66,A#3,A#3,s_E30301,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+170,s_E3030120220615164428.wav,20220328121618.wav,66,66,A#3,A#3,s_E30301,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+171,s_E3030120220615165039.wav,20220328121708.wav,66,66,A#3,A#3,s_E30301,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+172,s_E3030120220615165546.wav,20220328121719.wav,66,66,A#3,A#3,s_E30301,80.10444444,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+173,s_E3030120220615170059.wav,20220328121804.wav,66,66,A#3,A#3,s_E30301,85.94136054,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+174,s_E3030220220616160307.wav,20220328121607.wav,66,66,B3,A#3,s_E30302,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+175,s_E3030220220616161609.wav,20220328121618.wav,66,66,B3,A#3,s_E30302,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+176,s_E3030220220616162921.wav,20220328121708.wav,66,66,B3,A#3,s_E30302,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+177,s_E3030320220626124430.wav,20220210130408.wav,100,100,C4,A#3,s_E30303,34.29147392,5,16,1,s r g m p d n su su n d p m g r s
+178,s_E3030320220626124707.wav,20220210130556.wav,100,100,C4,A#3,s_E30303,54.46380952,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+179,s_E3030320220626125611.wav,20220217105515.wav,100,100,C4,A#3,s_E30303,92.63741497,5,16,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s
+180,s_E3030320220626130034.wav,PALTA_4_EKGUN.wav,100,100,C4,A#3,s_E30303,37.51034014,5,16,,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+181,s_E3030320220626131831.wav,PALTA_5_EKGUN.wav,100,100,C4,A#3,s_E30303,40.0384127,5,16,,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+182,s_E3030320220626132203.wav,PALTA_6_EKGUN.wav,100,100,C4,A#3,s_E30303,33.61809524,5,16,,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+183,s_E3030520220621163840.wav,20220210130408.wav,100,100,C#4,A#3,s_E30305,34.29147392,5,16,1,s r g m p d n su su n d p m g r s
+184,s_E3030520220621164248.wav,20220210130556.wav,100,100,C#4,A#3,s_E30305,54.46380952,5,16,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+185,s_E3030720220616180035.wav,20220328121607.wav,66,66,A#3,A#3,s_E30307,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+186,s_E3030720220616180324.wav,20220328121618.wav,66,66,A#3,A#3,s_E30307,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+187,s_E3030720220616180914.wav,20220328121719.wav,66,66,A#3,A#3,s_E30307,80.10444444,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+188,s_E3030720220616181205.wav,20220328121804.wav,66,66,A#3,A#3,s_E30307,85.94136054,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+189,s_E3040220220616174142.wav,20220328121607.wav,66,66,C#4,A#3,s_E30402,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+190,s_E3040220220616174347.wav,20220328121618.wav,66,66,C#4,A#3,s_E30402,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+191,s_E3040220220616175052.wav,20220328121708.wav,66,66,C#4,A#3,s_E30402,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+192,s_E3040220220616175421.wav,20220328121719.wav,66,66,C#4,A#3,s_E30402,80.10444444,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+193,s_E3040220220616175636.wav,20220328121804.wav,66,66,C#4,A#3,s_E30402,85.94136054,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+194,s_E3040920220616170652.wav,20220328121607.wav,66,66,C#4,A#3,s_E30409,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+195,s_E3040920220616171111.wav,20220328121618.wav,66,66,C#4,A#3,s_E30409,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+196,s_E3040920220616171644.wav,20220328121708.wav,66,66,C#4,A#3,s_E30409,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+197,s_E3041120220616172305.wav,20220328121607.wav,66,66,C#4,A#3,s_E30411,44.67079365,5,1,1,s r g m p d n su su n d p m g r s
+198,s_E3041120220616172748.wav,20220328121618.wav,66,66,C#4,A#3,s_E30411,73.79151927,5,1,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s 
+199,s_E3041120220616173049.wav,20220328121708.wav,66,66,C#4,A#3,s_E30411,101.8905669,5,1,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s 
+200,s_E3041120220616173431.wav,20220328121719.wav,66,66,C#4,A#3,s_E30411,80.10444444,5,1,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s 
+201,s_E3041120220616173715.wav,20220328121804.wav,66,66,C#4,A#3,s_E30411,85.94136054,5,1,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s 
+202,s_Exam E3030420220624153002.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_Exam E30304,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+203,s_Exam E3030720220624125135.wav,PATTERN_3.wav,75,75,A#3,A#3,s_Exam E30307,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+204,s_Exam E3030720220624125636.wav,Jumping_Pattern_1.wav,100,100,A#3,A#3,s_Exam E30307,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+205,s_Exam E3031020220624124428.wav,Jumping_Pattern_1.wav,100,100,A#3,A#3,s_Exam E30310,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+206,s_ExamC3040820220625172858.wav,Jumping_Pattern_1.wav,100,100,A#3,A#3,s_ExamC30408,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+207,s_ExamC3040820220625173139.wav,PATTERN_3.wav,75,75,A#3,A#3,s_ExamC30408,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+208,s_ExamC3040820220625173646.wav,PALTA_6_EKGUN.wav,100,100,A#3,A#3,s_ExamC30408,33.61809524,5,16,,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+209,s_ExamC3041120220625164207.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_ExamC30411,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+210,s_ExamC3041120220625164750.wav,ALANKAAR_4.wav,100,100,C#4,A#3,s_ExamC30411,100.8804989,5,16,1,s - r - g - r - g - m - g - m - p - m - p - d - p - d - n - d - n - su - su - n - d - n - d - p - d - p - m - p - m - g - m - g - r - g - r - s - 
+211,s_ExamC3041120220625165047.wav,PALTA_6_EKGUN.wav,100,100,C#4,A#3,s_ExamC30411,33.61809524,5,16,,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+212,s_ExamC3041120220625165309.wav,PATTERN_3.wav,75,75,C#4,A#3,s_ExamC30411,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+213,s_ExamE3030520220625174406.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_ExamE30305,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+214,s_ExamE3030520220625174615.wav,PATTERN_3.wav,75,75,A#3,A#3,s_ExamE30305,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+215,s_ExamE3030520220625175056.wav,ALANKAAR_4.wav,100,100,A#3,A#3,s_ExamE30305,100.8804989,5,16,1,s - r - g - r - g - m - g - m - p - m - p - d - p - d - n - d - n - su - su - n - d - n - d - p - d - p - m - p - m - g - m - g - r - g - r - s - 
+216,s_ExamE3030520220625175329.wav,PALTA_6_EKGUN.wav,100,100,A#3,A#3,s_ExamE30305,33.61809524,5,16,,s r r g g m m p p d d n n su su n n d d p p m m g g r r s 
+217,s_t E3030420220624152847.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_t E30304,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+218,s_t E3030720220624124851.wav,PATTERN_3.wav,75,75,A#3,A#3,s_t E30307,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+219,s_t E3030720220624125518.wav,Jumping_Pattern_1.wav,100,100,A#3,A#3,s_t E30307,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+220,s_t E3030820220621115125.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_t E30308,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+221,s_tC3040820220622144624.wav,PATTERN_3.wav,75,75,A#3,A#3,s_tC30408,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+222,s_tC3040820220625172655.wav,Jumping_Pattern_1.wav,100,100,A#3,A#3,s_tC30408,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+223,s_tC3041120220622185142.wav,PATTERN_3.wav,75,75,C#4,A#3,s_tC30411,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+224,s_tC3041120220625163759.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_tC30411,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+225,s_tC3041220220622180615.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_tC30412,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+226,s_tC3041220220622181243.wav,Jumping_Pattern_2.wav,100,100,C#4,A#3,s_tC30412,22.44929705,5,16,2,@s g r m g p m d p n d su su d n p d m p g m r g s 
+227,s_tC3041220220622181745.wav,PATTERN_3.wav,75,75,C#4,A#3,s_tC30412,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+228,s_tC3041220220625181630.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_tC30412,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+229,s_tE3030420220622170812.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_tE30304,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+230,s_tE3030420220622171043.wav,PATTERN_3.wav,75,75,C#4,A#3,s_tE30304,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+231,s_tE3030520220622183024.wav,PATTERN_3.wav,75,75,C#4,A#3,s_tE30305,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+232,s_tE3030520220625174230.wav,Jumping_Pattern_1.wav,100,100,C#4,A#3,s_tE30305,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+233,s_tE3031020220624123329.wav,PATTERN_3.wav,75,75,A#3,A#3,s_tE30310,38.86,0,1,,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  
+234,s_tE3031020220624124047.wav,Jumping_Pattern_1.wav,100,100,A#3,A#3,s_tE30310,29.27886621,5,16,1,s g r m g p m d p n d su su d n p d m p g m r g s 
+235,s_test c3040220220620102636.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_test c30402,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+236,s_test C3040820220620164520.wav,ALANKAAR_3.wav,100,100,A#3,A#3,s_test C30408,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+237,s_test C3040920220620190220.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_test C30409,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+238,s_test c3041120220620104710.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_test c30411,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+239,s_test E3030520220620161843.wav,ALANKAAR_3.wav,100,100,C#4,A#3,s_test E30305,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+240,s_test E3030720220620162509.wav,ALANKAAR_3.wav,100,100,A#3,A#3,s_test E30307,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 
+241,s_test E3031020220620184839.wav,ALANKAAR_3.wav,100,100,A#3,A#3,s_test E30310,91.65927438,5,16,1,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - 

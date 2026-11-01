@@ -1,0 +1,65 @@
+t_filename,anchor_point,beat_cycle,note_sequence
+20220330100342.wav,1.727,1,s - - - - - - -
+20220330100358.wav,1.727,1,r - - - - - - -
+20220330100411.wav,1.727,1,g - - - - - - -
+20220330100421.wav,1.727,1,m - - - - - - -
+20220330100432.wav,1.727,1,p - - - - - - -
+20220330100442.wav,1.727,1,d - - - - - - -
+20220330100453.wav,1.727,1,n - - - - - - -
+20220330100506.wav,1.727,1,su - - - - - - -
+20220330100518.wav,1.727,1,su - - - - - - -
+20220330100529.wav,1.727,1,n - - - - - - -
+20220330100541.wav,1.727,1,d - - - - - - -
+20220330100555.wav,1.727,1,p - - - - - - -
+20220330100606.wav,1.727,1,m - - - - - - -
+20220330100622.wav,1.727,1,g - - - - - - -
+20220330100632.wav,1.727,1,r - - - - - - -
+20220330100643.wav,1.727,1,s - - - - - - -
+20220330100654.wav,1.727,1,s - - - - - - - r - - - - - - - g - - - - - - - m - - - - - - - p - - - - - - - d - - - - - - - n - - - - - - - su - - - - - - - 
+20220330100704.wav,1.727,1,su - - - - - - - n - - - - - - - d - - - - - - - p - - - - - - - m - - - - - - - g - - - - - - - r - - - - - - - s - - - - - - -
+20220330100715.wav,1.727,1,s - - - - - - - r - - - - - - - g - - - - - - - m - - - - - - - p - - - - - - - d - - - - - - - n - - - - - - - su - - - - - - - su - - - - - - - n - - - - - - - d - - - - - - - p - - - - - - - m - - - - - - - g - - - - - - - r - - - - - - - s - - - - - - -
+20220330100729.wav,1.727,1,s - - - 
+20220330100738.wav,1.727,1,s r - - - r s - - - - -
+20220330100748.wav,1.727,1,s r g - - - - - g r s - - - - -
+20220330100759.wav,1.727,1,s r g m - - - - m g r s - - - -
+20220330100814.wav,1.727,1,s r g m p - - - p m g r s - - - -
+20220330100825.wav,1.727,1,s r g m p d - - d p m g r s - -
+20220330100835.wav,1.727,1,s r g m p d n - - - n d p m g r s - - -
+20220330100845.wav,1.727,1,s r g m p d n su - - - - su n d p m g r s - - - -
+20220330100857.wav,1.727,1,s - - -  s r - - r s - - s r g - - g r s- - s r g m - - - m g r s - - - s r g m p - - - p m g r s - - - s r g m p d - - d p m g r s - - s r g m p d n - - n d p m g r s - - s r g m p d n su - - su n d p m g r s - - - -
+20220330100906.wav,1.727,1,s - - - - - - 
+20220330100916.wav,1.727,1,s n1 s - - - - 
+20220330100926.wav,1.727,1,s n1 s r s - - -
+20220330100934.wav,1.727,1,s n1 s r g r s - - - - 
+20220330100943.wav,1.727,1,s n1 s r g m g r s - - - 
+20220330100951.wav,1.727,1,s n1 s r g m p m g r s - - -
+20220330100959.wav,1.727,1,s n1 s r g m p d p m g r s - - -
+20220330101007.wav,1.727,1,s n1 s r g m p d n d p m g r s - - 
+20220330101017.wav,1.727,1,s n1 s r g m p d n su n d p m g r s - - 
+20220330101025.wav,1.727,1,s - - - - - - -s n1 s - - - s n1 s r s - - - s n1 s r g r s - - - s n1 s r g m g r s - - - s n1 s r g m p m g r s - - - s n1 s r g m p d p m g r s - - - s n1 s r g m p d n d p m g r s - - - s n1 s r g m p d n su n d p m g r s - - - - -
+20220330101035.wav,1.727,1,s - - -
+20220330101043.wav,1.727,1,s r s - 
+20220330101051.wav,1.727,1,s r g r s -
+20220330101101.wav,1.727,1,s r g m g r s -
+20220330101111.wav,1.727,1,s r g m p m g r s -
+20220330101119.wav,1.727,1,s r g m p d p m g r s -
+20220330101128.wav,1.727,1,s r g m p d n d p m g r s -
+20220330101138.wav,1.727,1,s r g m p d n su n d p m g r s -
+20220330101147.wav,1.727,1,s r g m p d n su ru su n d p m g r s -
+20220330101158.wav,1.727,1,s r g m p d n su ru gu ru su n d p m g r s -
+20220330101208.wav,1.727,1,s - - - s r s - s r g r s - s r g m g r s - s r g m p m g r s - s r g m p d p m g r s - s r g m p d n d p m g r s - s r g m p d n su n d p m g r s - s r g m p d n su ru su n d p m g r s - s r g m p d n su ru gu ru su n d p m g r s - - - 
+20220330101218.wav,1.727,1,su - - - 
+20220330101227.wav,1.727,1,su n su -
+20220330101236.wav,1.727,1,su n d n su -
+20220330101248.wav,1.727,1,su n d p d n su -
+20220330101258.wav,1.727,1,su n d p m p d n su -
+20220330101307.wav,1.727,1,su n d p m g m p d n su -
+20220330101317.wav,1.727,1,su n d p m g r g m p d n su -
+20220330101326.wav,1.727,1,su n d p m g r s r g m p d n su -
+20220330101336.wav,1.727,1,su - - - su n su - su n d n su - su n d p d n su - su n d p m p d n su - su n d p m g m p d n su - su n d p m g r g m p d n su - su n d p m g r s r g m p d n su -
+20220330101345.wav,1.727,1,s n1 r s g r m g p m d p n d su n ru su - - -
+20220330101354.wav,1.727,1,su ru n su d n p d m p g m r g s r n1 s - - - 
+20220330101403.wav,1.727,1,s n1 r s g r m g p m d p n d su n ru su su ru n su d n p d m p g m r g s r n1 s - - -
+20220330101414.wav,1.727,1,s r r g g m m p p d d n n su - - - 
+20220330101423.wav,1.727,1,su n n d d p p m m g g r r s - - -
+20220330101432.wav,1.727,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s - - - 

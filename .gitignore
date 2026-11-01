@@ -28,12 +28,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Audio & Large Dataset files (keep references if small, ignore large raw batches)
-data/raw/*
-!data/raw/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-
 # Model weights and checkpoints
 *.pt
 *.pth

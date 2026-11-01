@@ -1,0 +1,92 @@
+t_filename,achor_point,beat_cycle,note_sequence,Beat per Note
+20220210130408.wav,5,16,s r g m p d n su su n d p m g r s,1
+20220210130436.wav,5,16,s r g m p d n su su n d p m g r s,1
+20220210130506.wav,5,16,@s r g m p d n su su n d p m g r s,2
+20220210130532.wav,5,16,@s r g m p d n su su n d p m g r s,2
+20220210130556.wav,5,16,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s ,1
+20220210130615.wav,5,16,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s ,1
+20220210130652.wav,5,16,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s ,2
+20220210130711.wav,5,16,@s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s ,2
+20220217105515.wav,5,16,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s,1
+20220217105624.wav,5,16,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s,1
+20220217105724.wav,5,16,@s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s,2
+20220217105806.wav,5,16,@s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s,2
+20220217105900.wav,5,16,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s ,1
+20220217105930.wav,5,16,r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s ,1
+20220217110048.wav,5,16,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s ,2
+20220217110150.wav,5,16,@r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n1 s ,2
+20220217110323.wav,6.208,7,s r r g g m m p p d d n n su su n n d d p p m m g g r r s,1
+20220217110405.wav,6.208,7,s r r g g m m p p d d n n su su n n d d p p m m g g r r s,1
+20220217110436.wav,6.208,7,@s r r g g m m p p d d n n su su n n d d p p m m g g r r s,2
+20220217110507.wav,6.208,7,@s r r g g m m p p d d n n su su n n d d p p m m g g r r s,2
+20220217110536.wav,6.208,7,s r g m p d n r g m p d n su su n d p m g r n d p m g r s ,1
+20220217110608.wav,6.208,7,s r g m p d n r g m p d n su su n d p m g r n d p m g r s ,1
+20220217110717.wav,6.208,7,@s r g m p d n r g m p d n su su n d p m g r n d p m g r s ,2
+20220217110748.wav,6.208,7,@s r g m p d n r g m p d n su su n d p m g r n d p m g r s ,2
+20220217110821.wav,6.208,7,s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s ,1
+20220217110852.wav,6.208,7,s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s ,1
+20220217110924.wav,6.208,7,@s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s ,2
+20220217110955.wav,6.208,7,@s r g s r g m r g m r g m p g m p g m p d m p d m p d n p d n p d n su su n d su n d p n d p n d p m d p m d p m g p m g p m g r m g r m g r s ,2
+20220217111407.wav,6,6,s g r m g p m d p n d su su d n p d m p g m r g s ,1
+20220217111450.wav,6,6,s g r m g p m d p n d su su d n p d m p g m r g s ,1
+20220309165830.wav,6.208,7,s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s ,1
+20220309165843.wav,6.208,7,s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s ,1
+20220309165905.wav,6.208,7,@s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s ,2
+20220309165938.wav,6.208,7,@s r g r s r g r g m g r g m g m p m g m p m p d p m p d p d n d p d n d n su n d n su su n d n su n d n d p d n d p d p m p d p m p m g m p m g m g r g m g r g r s r g r s ,2
+20220309165953.wav,6.208,7,s s s r r g g r r r g g m m g g g m m p p m m m p p d d p p p d d n n d d d n n su su su su su n n d d n n n d d p p d d d p p m m p p p m m g g m m m g g r r g g g r r s s ,1
+20220309170025.wav,6.208,7,@s s s r r g g r r r g g m m g g g m m p p m m m p p d d p p p d d n n d d d n n su su su su su n n d d n n n d d p p d d d p p m m p p p m m g g m m m g g r r g g g r r s s ,2
+20220309170048.wav,6.208,7,@s s s r r g g r r r g g m m g g g m m p p m m m p p d d p p p d d n n d d d n n su su su su su n n d d n n n d d p p d d d p p m m p p p m m g g m m m g g r r g g g r r s s ,2
+20220310103714.wav,5.063,16,s R g m p D n su su n D p m g R s,1
+20220310103759.wav,5.063,16,s R g m p D n su su n D p m g R s,1
+20220310103810.wav,5.063,16,@s s R R g g m m p p D D n n su su su su n n D D p p m m g g R R s s  ,2
+20220310103824.wav,5.063,16,@s s R R g g m m p p D D n n su su su su n n D D p p m m g g R R s s  ,2
+20220310103835.wav,5.063,16,s R s g R g R m g m g p m p m D p D p n D n D su su n su D n D n p D p D m p m p g m g m R g R g s,1
+20220310103848.wav,5.063,16,s R s g R g R m g m g p m p m D p D p n D n D su su n su D n D n p D p D m p m p g m g m R g R g s,1
+20220310103859.wav,5.063,16,s s s s R R R R g g g g m m m m p p p p D D D D n n n n su su su su su su su su n n n n D D D D p p p p m m m m g g g g  R R R R s s s s,1
+20220310103911.wav,5.063,16,s s s s R R R R g g g g m m m m p p p p D D D D n n n n su su su su su su su su n n n n D D D D p p p p m m m m g g g g  R R R R s s s s,1
+20220310105144.wav,6,6,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s ,1
+20220310105203.wav,6,6,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s ,1
+20220310105217.wav,6,6,@s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s ,2
+20220310105230.wav,6,6,@s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s ,2
+20220310105245.wav,6,6,s r s r g r g m g m p m p d p d n d n su n su ru su su ru su n su n d n d p d p m p m g m g r g r s r s  ,1
+20220310105315.wav,6,6,@s r s r g r g m g m p m p d p d n d n su n su ru su su ru su n su n d n d p d p m p m g m g r g r s r s  ,2
+20220310105330.wav,6,6,@s r s r g r g m g m p m p d p d n d n su n su ru su su ru su n su n d n d p d p m p m g m g r g r s r s  ,2
+20220310105341.wav,6,6,s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s ,1
+20220310105355.wav,6,6,s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s ,1
+20220310105409.wav,6,6,@s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s ,2
+20220310105423.wav,6,6,@s r g m p d r g m p d n g m p d n su su n d p m g n d p m g r d p m g r s ,2
+20220311215116.wav,5,16,s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s ,1
+20220311215148.wav,5,16,s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s ,1
+20220311215204.wav,5,16,@s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s ,2
+20220311215225.wav,5,16,@s r s s r g r r g m g g m p m m p d p p d n d d n su n n su ru su su su ru su su n su n n d n d d p d p p m p m m g m g g r g r r s r s s ,2
+20220312093443.wav,6,6,g r s m g r p m g d p m n d p su n d ru su n gu ru su su ru gu n su ru d n su p d n m p d g m p r g m s r g n1 s r d1 n1 s ,1
+20220312113656.wav,5,16,s R g m p D n su su n D p m g R s,1
+20220312113707.wav,5,16,s R g m p D n su su n D p m g R s,1
+20220312113719.wav,5,16,@s R g m p D n su su n D p m g R s,2
+20220312113726.wav,5,16,@s R g m p D n su su n D p m g R s,2
+20220312113733.wav,5,16,s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s ,1
+20220312113748.wav,5,16,s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s ,1
+20220312113749.wav,5,16,@s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s ,2
+20220312114614.wav,5,16,@s R g m p m g R g m p D n D p m p D n su Ru gu Ru su su n D p m g R s ,2
+20220312114622.wav,5,16,g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s ,1
+20220312114628.wav,5,16,g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s ,1
+20220312114629.wav,5,16,@g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s ,2
+20220312114644.wav,5,16,@g s R m R g p g m D m p n p D su D n Ru n su - - - su n D p m g R s ,2
+20220328121607.wav,5,1,s r g m p d n su su n d p m g r s,1
+20220328121618.wav,5,1,s s r r g g m m p p d d n n su su su su n n d d p p m m g g r r s s ,1
+20220328121708.wav,5,1,s s s r r r g g g m m m p p p d d d n n n su su su su su su n n n d d d p p p m m m g g g r r r s s s ,1
+20220328121719.wav,5,1,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s ,1
+20220328121727.wav,5,1,s r r g g m m p p d d n n su su n n d d p p m m g g r r s ,1
+20220328121735.wav,5,1,s g r m g p m d p n d su su d n p d m p g m r g s ,1
+20220328121755.wav,5,1,s s s s r r r r g g g g m m m m p p p p d d d d n n n n su su su su su su su su n n n n d d d d p p p p m m m m g g g g  r r r r s s s s,1
+20220328121804.wav,5,1,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s ,1
+20220328121813.wav,5,1,s n1 r s g r m g p m d p n d su n ru su n su d n p d m p g m r g s r n s  ,1
+20220328121843.wav,5,1,s s r s s r g r s s r g m g r s s r g m p m g r s s r g m p d p m g r s s r g m p d n d p m g r s s r g m p d n su n d p m g r s su su n su n d n su su n d p d n su su n d p m p d n su su n d p m g m p d n su su n d p m g r g m p d n su su n d p m g r s r g m p d n su,1
+ALANKAAR_3.wav,5,16,s - s - r - r - g - g - m - m - p - p - d - d - n - n - su - su - su - su - n - n - d - d - p - p - m - m - g - g - r - r - s - s - ,1
+ALANKAAR_4.wav,5,16,s - r - g - r - g - m - g - m - p - m - p - d - p - d - n - d - n - su - su - n - d - n - d - p - d - p - m - p - m - g - m - g - r - g - r - s - ,1
+Jumping_Pattern_1.wav,5,16,s g r m g p m d p n d su su d n p d m p g m r g s ,1
+Jumping_Pattern_2.wav,5,16,@s g r m g p m d p n d su su d n p d m p g m r g s ,2
+PALTA_4_EKGUN.wav,5,16,s r g r g m g m p m p d p d n d n su su n d n d p d p m p m g m g r g r s ,
+PALTA_5_EKGUN.wav,5,16,s r g m r g m p g m p d m p d n p d n su su n d p n d p m d p m g p m g r m g r s ,
+PALTA_6_EKGUN.wav,5,16,s r r g g m m p p d d n n su su n n d d p p m m g g r r s ,
+PATTERN_3.wav,0,1,s r g m s s r r g g m m s s s r r r g g g m m m s s s s r r r r g g g g m m m m m  ,
