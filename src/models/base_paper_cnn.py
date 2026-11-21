@@ -147,3 +147,4 @@ if __name__ == "__main__":
     print("Regularizer : Batch Normalization after every Conv1D layer")
     print("Loss Func   : Binary Cross-Entropy")
     print("=" * 65)
+
